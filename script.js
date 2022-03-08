@@ -119,4 +119,3 @@ restartBtn.addEventListener('click', function(e){
         playGame = true;
         
 });
-
