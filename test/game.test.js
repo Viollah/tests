@@ -1,9 +1,9 @@
 
 describe('Guess a  number between 1 and 100', function () {
-    it("Higher,it has to be between 1 and 100", async function () {
+    it("Too low! Try again!", async function () {
       
     });
-    it("Lower, number should be between 1 and 100 ", async function () {
+    it("Too high! Try again!", async function () {
      
     });
     
